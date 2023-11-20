@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day11FeatureSpecflow", "Day11FeatureSpecflow.csproj", "{1E200D0A-4E3C-4D58-97C2-1F1E151411E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E200D0A-4E3C-4D58-97C2-1F1E151411E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E200D0A-4E3C-4D58-97C2-1F1E151411E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E200D0A-4E3C-4D58-97C2-1F1E151411E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E200D0A-4E3C-4D58-97C2-1F1E151411E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A000C6E-DCCE-4C85-A3DF-A122047D76CE}
+	EndGlobalSection
+EndGlobal
